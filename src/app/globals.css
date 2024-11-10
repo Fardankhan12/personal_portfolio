@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Carl;
+    src: url(./fonts/CarlaSansRegular.woff);
+}
+@font-face {
+    font-family: get;
+    src: url(./fonts/GeistVF.woff);
+}
+.same{
+    font-family: Carl;
+}
+.desc{font-family: get}
