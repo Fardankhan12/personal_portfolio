@@ -2,6 +2,8 @@ import TransitionProvider from './components/TransitionProvider';
 import type { Metadata } from 'next';
 import localFont from 'next/font/local';
 import './globals.css';
+import React from 'react';
+
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
