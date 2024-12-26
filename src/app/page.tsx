@@ -13,7 +13,7 @@ const Page = () => {
       <div className="flex flex-col lg:flex-row h-screen px-4 sm:px-8 md:px-12 lg:px-10 xl:px-24 ">
         <div className="lg:w-1/2 h-full relative">
           <img
-            src="/hero1.png"
+            src="/462556349_581501977803477_5859611125729260636_n-removebg-preview.png"
             alt=""
             className="object-contain w-full h-full"
           />
